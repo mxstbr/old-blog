@@ -10,7 +10,7 @@ published: true
 Nach 30 Tagen, aufgrund des auslaufenden Visas, wahrscheinlich weiter nach Laos, dort mit dem Kayak herumtouren und die Natur genießen
 Dann am 28.09. den Flug aus Bangkok nach Wien erwischen, entweder mit einem neuen Visum (war ja dann doch schon 2 Wochen+ aus dem Land) oder mit einem Flug aus Laos an  den Bangkok Airport.
 
-[Interaktive Karte der verschiedenen Stopps](http://mstoiber.com/odyssey.html)
+<a href="http://mstoiber.com/odyssey.html" target="_blank">Interaktive Karte der verschiedenen Stopps</a>
 
 ## FAQ
 
@@ -38,5 +38,5 @@ Wegen Diebstahl und sonstigen zwischenmenschlichen Gefahren mache ich mir nicht 
 
 ### Sonstige Fragen
 
-Sonstige Fragen können gerne an mich gestellt werden, entweder in den Kommentaren hier, auf [facebook](http://facebook.com/JustStoiber "Max Stoiber auf Facebook"), [twitter](http://twitter.com/mstoiber05 "mstoiber05 auf twitter") oder per [E-Mail](mailto:contact@mstoiber.com "Mail an Max Stoiber senden").
+Sonstige Fragen können gerne an mich gestellt werden, entweder in den Kommentaren hier, auf <a href="http://facebook.com/JustStoiber" target="_blank">facebook</a>, <a href="http://twitter.com/mstoiber05" target="_blank">twitter</a> oder per <a href="mailto:contact@mstoiber.com" target="_blank">Mail</a>.
 
