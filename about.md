@@ -7,10 +7,10 @@ published: true
 ## Eckdaten
 
 06.08. Abflug aus Wien nach Bangkok, Ankunft in Bangkok
-Nach 30 Tagen aufgrund des auslaufenden Visas wahrscheinlich weiter nach Laos, dort mit dem Kayak herumtouren
-Dann am 28.09. den Flug aus Bangkok nach Wien erwischen
+Nach 30 Tagen, aufgrund des auslaufenden Visas, wahrscheinlich weiter nach Laos, dort mit dem Kayak herumtouren und die Natur genießen
+Dann am 28.09. den Flug aus Bangkok nach Wien erwischen, entweder mit einem neuen Visum (war ja dann doch schon 2 Wochen+ aus dem Land) oder mit einem Flug aus Laos an  den Bangkok Airport.
 
-Ungefährer Plan was ich tun will: http://mstoiber.com/odyssey.html
+Ungefährer Plan visualisiert: http://mstoiber.com/odyssey.html
 
 ## FAQ
 
@@ -35,3 +35,8 @@ Dann habe ich mich weiterinformiert, und habe erfahren, dass vor ein paar Monate
 Ich wurde gegen alles geimpft, was auch nur irgendwie impfbar ist, und obwohl Thailand eigentlich nur ein sehr geringes Malariarisiko hat, werde ich genügend Mükenschutz und Malariamedizin mitnehmen um ganze Armeen zu versorgen. 
 
 Wegen Diebstahl und sonstigen zwischenmenschlichen Gefahren mache ich mir nicht allzuviel Sorgen. Obwohl es in Thailand viele verschiedene Betrügereien gibt, sollte mir, mit normalem Menschenverstand ausgerüstet, soweit ich das aus Erzählungen gehört habe, nichts passieren. 
+
+### Sonstige Fragen
+
+Sonstige Fragen können gerne an mich gestellt werden, entweder in den Kommentaren hier, auf [facebook](http://facebook.com/JustStoiber "Max Stoiber auf Facebook"), [twitter](http://twitter.com/mstoiber05 "mstoiber05 auf twitter") oder per [E-Mail](mailto:contact@mstoiber.com "Mail an Max Stoiber senden").
+
