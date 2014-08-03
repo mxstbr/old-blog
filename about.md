@@ -10,7 +10,7 @@ published: true
 Nach 30 Tagen, aufgrund des auslaufenden Visas, wahrscheinlich weiter nach Laos, dort mit dem Kayak herumtouren und die Natur genießen
 Dann am 28.09. den Flug aus Bangkok nach Wien erwischen, entweder mit einem neuen Visum (war ja dann doch schon 2 Wochen+ aus dem Land) oder mit einem Flug aus Laos an  den Bangkok Airport.
 
-Ungefährer Plan visualisiert: http://mstoiber.com/odyssey.html
+[Interaktive Karte der verschiedenen Stopps](http://mstoiber.com/odyssey.html)
 
 ## FAQ
 
