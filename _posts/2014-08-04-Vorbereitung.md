@@ -2,6 +2,11 @@
 published: false
 ---
 
+---
+layout: post
+title: Vorbereitung
+---
+
 ## Routenplanung
 
 ### Thailand
