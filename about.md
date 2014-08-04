@@ -8,9 +8,11 @@ published: true
 
 06.08. Abflug aus Wien nach Bangkok, Ankunft in Bangkok
 
-Nach 30 Tagen, aufgrund des auslaufenden Visas, wahrscheinlich weiter nach Laos, dort mit dem Kayak herumtouren und die Natur genießen
+Nach 30 Tagen, aufgrund des auslaufenden Visas weiter nach Laos
 
 Dann am 28.09. den Flug aus Bangkok nach Wien erwischen, entweder mit einem neuen Visum (war ja dann doch schon 2 Wochen+ aus dem Land) oder mit einem Flug aus Laos an  den Bangkok Airport.
+
+Für eine detaillierte Beschreibung schaut bitte meinen Post <a href="http://mstoiber.github.io/2014/08/04/Vorbereitung/" target="_blank">Vorbereitung</a> an.
 
 <a href="http://mstoiber.com/odyssey.html" target="_blank">Interaktive Karte der verschiedenen Stopps</a>
 
@@ -38,7 +40,10 @@ Ich wurde gegen alles geimpft, was auch nur irgendwie impfbar ist, und obwohl Th
 
 Wegen Diebstahl und sonstigen zwischenmenschlichen Gefahren mache ich mir nicht allzuviel Sorgen. Obwohl es in Thailand viele verschiedene Betrügereien gibt, sollte mir, mit normalem Menschenverstand ausgerüstet, soweit ich das aus Erzählungen gehört habe, nichts passieren. 
 
+> Was nimmst du alles mit?
+
+Siehe meine <a href="http://mstoiber.github.io/2014/08/04/Vorbereitung#Packliste">Packliste</a>.
+
 ### Sonstige Fragen
 
 Sonstige Fragen können gerne an mich gestellt werden, entweder in den Kommentaren hier, auf <a href="http://facebook.com/JustStoiber" target="_blank">facebook</a>, <a href="http://twitter.com/mstoiber05" target="_blank">twitter</a> oder per <a href="mailto:contact@mstoiber.com" target="_blank">Mail</a>.
-
