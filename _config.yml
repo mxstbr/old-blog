@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Max' Reiseblog
-tagline:          'Alles Banane!'
+title:            Max in Südostasien
+tagline:          'Von Bangkok über Kho Pha Gnan nach Laos'
 description:      ''
 url:              http://mstoiber.github.io
 baseurl:          '/'
