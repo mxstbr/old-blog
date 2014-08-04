@@ -20,7 +20,7 @@ Hier komme ich entweder mit dem Flugzeug oder mit dem Bus her, um dann nach eine
 
 Viel mehr Plan habe ich in Laos noch nicht, ist aber glaube ich auch nicht notwendig. Danach trete ich dann die Heimreise über Bangkok an und komme hoffentlich gesund und munter am 28.09. um 8:45 in Schwechat an.
 
-## Packliste
+## <a name="Packliste"></a>Packliste
 
 Hier eine halbwegs vollständige Packliste aller Sachen, die ich mitnehme. 
 
@@ -93,4 +93,3 @@ _Nützliches Zeugs_
 - Nadel und Faden
 - Erste Hilfe Packerl
 - Bauchtasche
-
