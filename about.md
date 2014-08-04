@@ -12,9 +12,7 @@ Nach 30 Tagen, aufgrund des auslaufenden Visas weiter nach Laos
 
 Dann am 28.09. den Flug aus Bangkok nach Wien erwischen, entweder mit einem neuen Visum (war ja dann doch schon 2 Wochen+ aus dem Land) oder mit einem Flug aus Laos an  den Bangkok Airport.
 
-<a href="http://mstoiber.github.io/2014/08/04/Vorbereitung/">Detailliertere Beschreibung</a>.
-
-<a href="http://mstoiber.com/odyssey.html" target="_blank">Interaktive Karte der verschiedenen Stopps</a>
+<a href="http://mstoiber.github.io/2014/08/04/Vorbereitung/">Detailliertere Beschreibung</a>
 
 ## FAQ
 
