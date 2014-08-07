@@ -17,7 +17,7 @@ Taxi angesprochen, Preis vom Flughafen zum Hostel all inclusive auf einen Fixpre
 
 Ich wurde dafür dann einfach auf der Kaoh San Road abgesetzt, von wo aus ich eigentlich in weniger als 5 Minuten bei meinem Hostel gewesen waere. Die KSR ist das Backpackermekka, viele Hostels und viel Party. Man kann sie mit der Mariahilferstrasse vergleichen, gleich viele Geschaefte - nur halt auf ungefaehr 1\100tel des Platzes, und jedes dritte Geschaeft ist eine Bar und Abends eine Open Air Disko. 
 
-![Die Kaoh San Road][https://flic.kr/p/okDw6B]
+![Die Kaoh San Road][http://imgur.com/D2c6jsT.jpg]
 
 Da ich aber nicht wusste, wohin ich muss, bin ich einfach mal in die Kaoh San. Natürlich wurde ich dort sofort von diversen Verkäufern angelabert, und bin auch prompt auf einen reingefallen der mir angeboten hat, mir den Weg zu meinem Hostel zu zeigen. Skeptisch bin ich geworden, wie mich dann, direkt nachdem der Erste mich in eine Richtung gehen hat lassen,ein zweiter mir sofort helfen wollte und zufälligerweise "direkt neben dem Hostel wohnt", er mir also den Weg zeigen kann. Das Problem dabei war, dass die beiden zwar sehr nett waren, mich aber in die komplett falsche Richtung gelockt haben. Als er mich selbst nicht alleine gehen lassen wollte, wie ich stehengeblieben bin um mich mit Sonnencreme einzuschmieren ist mir endgültig klar gewesen, was hier gespielt wird, und ich bin einfach abgedreht und wieder zurück zur Kaoh San Road gegangen. 
 Nach ein bisschen herumirren wurde ich dann von einer älteren Dame angesprochen wohin ich denn am Weg sei. Den Leuten hier noch eine Chance geben zu wollen habe ich ihr den Namen meines Hostels genannt, sie hat kurz überlegt und mir dann genau den richtigen Weg gezeigt. Anscheinend sind die auf der Kaoh San Road einfach speziell schlimm.
@@ -31,8 +31,8 @@ Einen kurzen, offenbar für Thailand typischen, Regenguss durfte ich erleben. Ko
 
 Am Abend bin ich dann mit einem Tuk Tuk von der Innenstadt wieder in Richtung Heimat zur Kaoh San Road gefahren. Das war nicht nur äußerst billig (15 Minuten Fahrt 100 Baht, also 2,50 Euro), sondern auch noch irgendwie spannend, da sich die kleinen Dinger durch alles durchschlängeln können was auf sie zukommt. Der Verkehr in Bangkok muss hier auch noch einmal erwähnt werden - neben der dauernden Staus die überall sind gibt es auch noch Millionen Motorroller, wirklich Millionen. Die Strassen sind voll mit Vespas, und die machen den Verkehr eindeutig nicht einfacher zum navigieren. Blinker sind ja generell nur etwas für Weicheier, und eilig haben es anscheinend auch irgendwie immer alle.
 
-![Tuk Tuk][https://flic.kr/p/okE3zv]
+![Tuk Tuk][http://imgur.com/HhrzS4p.jpg]
 
 Nach der Tuk Tuk Fahrt hab ich mir dann gleich auf der Kaoh San Road bei einer Strassenverkäuferin frisch gemachtes Pad Thai gekauft. Die Portion war riesig,viel zu gross fuer eine Person (und daher schon viel viel zu gross für mich!) und hat mich um ganze 40 Baht, also einen Euro (!) zurückgesetzt.
 
-![Pad Thai, yummie][https://flic.kr/p/oBVuTU]
+![Pad Thai, yummie][http://imgur.com/Agn1pMh.jpg]
