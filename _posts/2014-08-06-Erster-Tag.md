@@ -1,3 +1,9 @@
+---
+published: true
+layout: post
+title: Erster Tag
+---
+
 ## Erster Tag
 
 ### Anreise
