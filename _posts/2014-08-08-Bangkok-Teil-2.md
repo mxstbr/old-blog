@@ -1,3 +1,9 @@
+---
+layout: post
+published: true
+title: Bangkok: Teil 2
+---
+
 ## Bangkok, Teil 2
 
 ### Tag 2
