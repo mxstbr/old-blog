@@ -1,8 +1,8 @@
----
+----
 layout: post
 published: true
-title: Bangkok: Teil 2
----
+title: Bangkok, Teil 2
+----
 
 ## Bangkok, Teil 2
 
