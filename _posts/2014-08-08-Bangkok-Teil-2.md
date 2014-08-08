@@ -8,7 +8,7 @@ title: Bangkok, Teil 2
 
 ### Tag 2
 
-Immer noch ein bisschen gejetlagged bin ich erst spät aufgestanden und dann von meinem Hostel aus zu einer eine Boothaltestelle ungefähr 15 Minuten weit weg gegangen. Von der aus habe ich ein Boot bis zum Siam Center genommen habe, eine riesige Shopping Mall ziemlich zentral in Bangkok. Eigentlich war sie genauso wie die österreichischen Shopping Malls auch, sogar so gut wie die gleichen Geschäfte, nur noch etwas luxuriöser angehaucht. Von Maseratis Über Bücher bis hin zu Handys konnte man dort alles kaufen, was das Herz begehrt. 
+Immer noch ein bisschen gejetlagged bin ich erst spät aufgestanden und dann von meinem Hostel aus zu einer eine Boothaltestelle ungefähr 15 Minuten weit weg gegangen. Von der aus habe ich ein Boot bis zum Siam Center genommen, ein riesiges Shopping Center ziemlich zentral in Bangkok. Eigentlich wars genauso wie die österreichischen auch, sogar so gut wie die gleichen Geschäfte, nur noch etwas luxuriöser angehaucht. Von Maseratis über Bücher bis hin zu Rolex' konnte man dort alles kaufen, was das Herz begehrt. 
 
 Ich hab mir dort eine SIM Karte mit 3 GB Internet besorgt, um nicht von dicken Büchern und Papierkarten abhängig zu sein. Ausserdem habe ich mal "richtiges" Pad Thai in einem gehobenen Lokal probiert, und ich muss sagen, das Pad Thai von der Strasse hat besser geschmeckt. Das aus dem Lokal hatte eine andere Art von Nudeln, die hatten eine komische, glitschige Konsistenz und haben leicht fischig geschmeckt. 
 
@@ -16,7 +16,7 @@ Dann hab ich mich noch ein bisschen in den umliegenden Gassen verloren, die auch
 
 ### Tag 3
 
-Um neun bin ich also am nächsten Tag los, die sogenannte Old Town anschauen. Dort sind viele bekannte Tempel und der grosse Palast untergebracht, und liegt an sich nicht weit von mir. In wahrer Expertenmanier bin ich alles zu Fuss abgegangen, aber ohne meine SIM mit Internet hätte ich mich wahrscheinlich nicht so gut zurecht gefunden. 
+Um neun bin ich also am nächsten Tag los, das sogenannte Old Town anschauen. Dort sind viele bekannte Tempel und der grosse Palast untergebracht, und liegt an sich nicht weit von mir. In wahrer Expertenmanier bin ich alles zu Fuss abgegangen, aber ohne meine SIM mit Internet hätte ich mich wahrscheinlich nicht so gut zurecht gefunden. 
 
 Am beeindruckendsten war eindeutig der grosse Palast, mein erster Stopp. Er hat zwei Jahrhunderte lang als Residenz für die Könige gedient, und war dementsprechend atemberaubend. Als Hauptattraktion ist hier der Smaragdbuddha bekannt, der aber eigentlich aus reiner Jade besteht. Die Palastanlage als Ganzes warjedoch das wirklich Beeindruckende. Ein Gebäude schöner als das nächste, riesengross und überall Wandmalereien! Zwar ist der Eintritt mit 500 Baht relativ teuer, aber auslassen kann man den Palast eindeutig nicht.
 
