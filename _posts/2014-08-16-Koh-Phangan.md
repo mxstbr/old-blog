@@ -1,4 +1,10 @@
-Ich bin am Abend mit dem Nachtbus los in Richtung Süden gefahren, endlich mal ein bisschen Strand sehen und in der Sonne sitzen. Nach 13 Stunden Bus- und Fährenfahrt bin ich in Kho Phangan angekommen, eine nette Insel an der Ostküste Thailands. 
+---
+layout: post
+title: Koh Phangan
+published: true
+---
+
+Ich bin am Abend mit dem Nachtbus los in Richtung Süden gefahren, endlich mal ein bisschen Strand sehen und in der Sonne sitzen. Nach 13 Stunden Bus- und Fährenfahrt bin ich in Koh Phangan angekommen, eine nette Insel an der Ostküste Thailands. 
 
 Hier habe ich mir im "@beach bed & bar" Hostel ein Bett in einem Sechsmann Schlafsaal gegönnt - dachte ich zumindest. Nachdem ich im besten Schlafsaal direkt am Strand einquartiert wurde, haben sie allerdings ein Hochbett entfernt (aus mir unbekannten Gründen), also durfte ich für den Preis von einem Sechsmann Schlafsaal in einem Viersaal Schlafsaal direkt am Strand schlafen. Kann mich nicht beschweren! 
 
