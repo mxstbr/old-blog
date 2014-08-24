@@ -4,9 +4,7 @@ published: true
 title: Bangkok, Teil 2
 ---
 
-## Bangkok, Teil 2
-
-### Tag 2
+## Tag 2
 
 Immer noch ein bisschen gejetlagged bin ich erst spät aufgestanden und dann von meinem Hostel aus zu einer eine Boothaltestelle ungefähr 15 Minuten weit weg gegangen. Von der aus habe ich ein Boot bis zum Siam Center genommen, ein riesiges Shopping Center ziemlich zentral in Bangkok. Eigentlich wars genauso wie die österreichischen auch, sogar so gut wie die gleichen Geschäfte, nur noch etwas luxuriöser angehaucht. Von Maseratis über Bücher bis hin zu Rolex' konnte man dort alles kaufen, was das Herz begehrt. 
 
@@ -14,7 +12,7 @@ Ich hab mir dort eine SIM Karte mit 3 GB Internet besorgt, um nicht von dicken B
 
 Dann hab ich mich noch ein bisschen in den umliegenden Gassen verloren, die auch alle voller Geschäfte waren.  Aufgrund ziemlich starken Regens bin wieder mit dem Tuk Tuk heimgefahren und hab mich früh schlafen gelegt, um fuer den dritten Tag ausgeruht zu sein - Hardcore Sightseeing steht am Tagesplan. 
 
-### Tag 3
+## Tag 3
 
 Um neun bin ich also am nächsten Tag los, das sogenannte Old Town anschauen. Dort sind viele bekannte Tempel und der grosse Palast untergebracht, und liegt an sich nicht weit von mir. In wahrer Expertenmanier bin ich alles zu Fuss abgegangen, aber ohne meine SIM mit Internet hätte ich mich wahrscheinlich nicht so gut zurecht gefunden. 
 
