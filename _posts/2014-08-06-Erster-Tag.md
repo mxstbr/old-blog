@@ -4,16 +4,14 @@ layout: post
 title: Erster Tag
 ---
 
-## Erster Tag
-
-### Anreise
+## Anreise
 
 In Wien um 19:00 Uhr ins Flugzeug eingestiegen, in Bangkok am nächsten Tag um 11:00 Uhr ausgestiegen. Das Flugzeug war an sich super, obwohl der erste Eindruck dank der älteren  Sesselbezuege nicht so gut war. Die Sessel waren dafür super zum liegen, da sie sich sehr weit zurück kippen lassen und viel Platz unter dem Vordermann war. Sogar ich konnte meine Beine ganz ausstrecken! Die Bedienung war auch sehr okay, haben mich zwar immer auf taiwanesisch angeredet und nur eher gebrochenes Englisch gesprochen, aber im Vergleich zu den Thailändern immer noch super.
 
 Der Flughafen war architektonisch wirklich schoen, von aussen zumindest, und das Visum und der eingecheckte Rucksack waren innerhalb von weniger als 20 Minuten erledigt. 1A, astrein.
 Taxi angesprochen, Preis vom Flughafen zum Hostel all inclusive auf einen Fixpreis von 400 Baht runtergehandelt ( ~ 10 Euro).  Gott sei Dank wie sich herausgestellt hat - es gab einen Riesenstau auf der Autobahn und es hat zwei Stunden gedauert. Mit dem Taxameter hätte mich das ein Vermögen gekostet!
 
-### Hostelsuche
+## Hostelsuche
 
 Ich wurde dafür dann einfach auf der Kaoh San Road abgesetzt, von wo aus ich eigentlich in weniger als 5 Minuten bei meinem Hostel gewesen waere. Die KSR ist das Backpackermekka, viele Hostels und viel Party. Man kann sie mit der Mariahilferstrasse vergleichen, gleich viele Geschaefte - nur halt auf ungefaehr 1\100tel des Platzes, und jedes dritte Geschaeft ist eine Bar und Abends eine Open Air Disko. 
 
@@ -23,7 +21,7 @@ Da ich aber nicht wusste, wohin ich muss, bin ich einfach mal in die Kaoh San. N
 Nach ein bisschen herumirren wurde ich dann von einer älteren Dame angesprochen wohin ich denn am Weg sei. Den Leuten hier noch eine Chance geben zu wollen habe ich ihr den Namen meines Hostels genannt, sie hat kurz überlegt und mir dann genau den richtigen Weg gezeigt. Anscheinend sind die auf der Kaoh San Road einfach speziell schlimm.
 Das Hostel ist sehr nett in einer Nebenstrasse in einem ruhigen Innenhof gelegen, vielleicht drei Minuten Gehweg von der KSR entfernt aber dennoch ganz ruhig. Ich habe mir das billigste Einzelzimmer "gegönnt", aber selbst das ist schon sehr nett. Es ist zwar sehr klein und besteht nur aus einem Bett und einem kleinen Tisch quasi, aber mehr braucht man ja auch nicht wenn man den ganzen Tag unterwegs ist. Es hat zwar keinen AC, sondern nur einen Ventilator, dafür kostet es aber 270 Baht pro Nacht, also 6 Euro. Grade noch leistbar kann man dazu nur sagen!
 
-### Bangkok
+## Bangkok
 
 Daraufhin habe ich meinen Kontakt in Bangkok angeschrieben, den ich durch einen Bekannten kenne der hier sechs Monate als Auslandskorrespondent fuer eine winzige österreichische Reisezeitung gearbeitet hat. Die beiden haben mich dann bis am Abend durch die Innenstadt gefuert und mir mal alles erklaert wie z.B. die oeffentlichen Verkehrsmittel, dass ich die naechste Woche auch durchhalte. Bangkok ist eine sehr hektische Stadt, es ist immer Action und ruhige Strassen sind eine Seltenheit. Überall sind Straßenverkäufer, die einem von Regenschirmen über Essen bis hin zu sehr echten Beats Kopfhörern um 5 Euro wirklich alles verkaufen. 
 
