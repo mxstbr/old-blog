@@ -18,7 +18,7 @@ Am besten in Erinnerung wird mir aber wahrscheinlich ein Einkaufszentrum bleiben
 
 Nachdem ich wieder mit dem Boot heimgefahren bin (diesmal sogar auf Anhieb auf das richtige getippt), habe ich mir direkt vor dem Hotel noch eine Bananen-Schokolade Palatschinke bei einem Straßenhändler gegönnt. Ich habe noch nie in meinem Leben so eine gute Palatschinke, Crêpe, Pancake oder wie auch immer gegessen. Auch wenn das Ganze eher einer Crêpe ähnelte, es war etwas besonderes. Nicht nur hat der Typ das so gekonnt gemacht wie David Copperfield seine Zaubershows, sondern durch einen selbstgemachten, frischen Teig, ganz frische Bananen, selbstgemachte Schokosoße und eine geheime Spezialsoße als Abschluss wurde dieses Kunstwerk so gut, dass ich mir gleich noch eine zweite gekauft hab. Abgesehen davon ernähre ich mich schon so gut wie nur mehr von Straßenessen, besonders die Fruechte die man an jeder Ecke bekommt sind der Wahnsinn. Melone, Ananas und Mango werden frisch vor einem zugeschnitten, und man bekommt ein ganzes Sackerl davon in die Hand gedrückt - natürlich kostet das nur 20 Baht. Echt unglaublich.
 
-## Tag 3
+## Tag 5
 
 Wieder viel zu früh aufgewacht, weil ich am Vortag meine Augen nicht lang genüg offen halten konnte. Tja, selbst Schuld, aber so komm ich wenigstens etwas zum Lesen. (Falls ihr Buchempfehlungen habt, nur her damit, meiner Kindlebibliothek könnten ein paar Neuzugänge nicht schaden!)
 
