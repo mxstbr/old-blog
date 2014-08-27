@@ -7,15 +7,15 @@ permalink:        pretty
 
 # Setup
 title:            Max in Südostasien
-tagline:          'Von Bangkok über Kho Phagnan und Chiang Mai nach Laos'
+tagline:          'Von Thailand über Laos nach Kambodscha'
 description:      'Zwei Monate in Südostasien als Backpacker unterwegs'
-url:              http://mstoiber.github.io
+url:              http://mstoiber.com
 baseurl:          '/'
 paginate:         10
 
 author:
   name:           'Maximilian Stoiber'
-  url:            https://mstoiber.com
+  url:            http://mstoiber.com
 
 # Custom vars
 version:          1.0.0
