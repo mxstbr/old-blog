@@ -11,7 +11,7 @@ tagline:          'Von Thailand über Laos nach Kambodscha'
 description:      'Zwei Monate in Südostasien als Backpacker unterwegs'
 url:              http://mstoiber.com
 baseurl:          '/'
-paginate:         10
+paginate:         5
 
 author:
   name:           'Maximilian Stoiber'
