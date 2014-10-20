@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Max in Südostasien
-tagline:          'Von Thailand über Laos nach Kambodscha'
-description:      'Zwei Monate in Südostasien als Backpacker unterwegs'
+title:            Max Stoiber
+tagline:          'From Travel over Techy Stuff to General News'
+description:      "My personal blog, which I'll try to update regularly"
 url:              http://mstoiber.com
 baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Maximilian Stoiber'
+  name:           'Maximilian Stoiber | Blog'
   url:            http://mstoiber.com
 
 # Custom vars
-version:          1.0.0
+version:          1.1.0
 
 github:
   repo:           https://github.com/mstoiber/mstoiber.github.io
