@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: [Archive] Südostasienreise 2014
+title: Südostasienreise 2014
 ---
 
 # 04.08.2014, Vorbereitung
