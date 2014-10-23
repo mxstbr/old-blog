@@ -307,6 +307,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  transition: 200ms;
 }
 .page-title,
 .post-title {
