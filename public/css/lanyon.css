@@ -502,6 +502,7 @@ a.pagination-item:hover {
 .theme-base-0d .sidebar-toggle,
 .theme-base-0d .related-posts li a:hover {
   color: #00C8C8;
+  text-decoration: none;
 }
 
 /* Magenta */
